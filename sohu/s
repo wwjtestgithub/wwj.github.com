@@ -1,0 +1,5 @@
+mvas_43042232=1016834;mv_pubtk='5_bDF4SYefdO0JFlXiMVbG==';mv_acquire=1;mv_bid=43042232;
+mvcu_43042232='http://max.mediav.com/rtb?type=3&d=100&b=0f4dd3cfd4349976&p=1016834&k=PEahmAAAAAA=&i=_sfM2YvWWGlW&turl=http%3A%2F%2Fxd%2Emediav%2Ecom%2Fs%3Ftype%3D2%26r%3D20%26impid%3Dr%2D64TolXkGU%3D%26pub%3D111235%5F512093%5F1016834%26pf%3DJUUUUUUUUUU%3D%26mvid%3DNzE5MDcwMzc0NDAxMTIzMjcwNDAwMTU%26mv%5Fref%3Dwww%252Esohu%252Ecom%26cus%3D86796%5F988840%5F9356109%5F43042232%5F0%26pinfo%3D%26url%3Dhttp%253A%252F%252Fdetail%252Etmall%252Ecom%252Fitem%252Ehtm%253Fid%253D44985564516%2526kid%253D29034%255F134828%255F626434%255F803422';
+mvctype_43042232=1;
+
+eval('mediav_fini'+mvas_43042232+'=1');mediav.makeImage("http://images.sohu.com/bill/jingzhun/2014/mediav/8ccc85d797aca051c917f4d452bd21db.gif", mvcu_43042232, 950, 90, "43042232");
